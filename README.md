@@ -57,9 +57,9 @@ If `pip` fails to locate the relevant packages, you may find it at [Python Packa
 
 ### References 
 
-- [sklearn.model_selection.train_test_split() documentation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
-- [sklearn.model_selection.GridSearchCV() documentation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
-- [sklearn.tree.export_text() documentation](https://scikit-learn.org/stable/modules/generated/sklearn.tree.export_text.html)
+- [sklearn.model_selection.train_test_split documentation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+- [sklearn.model_selection.GridSearchCV documentation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
+- [sklearn.tree.export_text documentation](https://scikit-learn.org/stable/modules/generated/sklearn.tree.export_text.html)
 
 &nbsp;
 
