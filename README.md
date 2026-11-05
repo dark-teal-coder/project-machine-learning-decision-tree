@@ -21,7 +21,7 @@
 
 ## Repository Description 
 
-The project uses Python Pandas library to analyze Titanic data from Kaggle to answer the question "What categories of passengers were most likely to survive the Titanic disaster?". The data set can be obtained at [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data).
+...............The project uses Python Pandas library to analyze Titanic data from Kaggle to answer the question "What categories of passengers were most likely to survive the Titanic disaster?". The data set can be obtained at [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data).
 
 ## Installation 
 
@@ -58,6 +58,7 @@ If `pip` fails to locate the relevant packages, you may find it at [Python Packa
 ### References 
 
 - [sklearn.model_selection.train_test_split() documentation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+- [class sklearn.model_selection.GridSearchCV() documentation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
 
 &nbsp;
 
