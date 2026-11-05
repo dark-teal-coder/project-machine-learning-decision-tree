@@ -14,8 +14,8 @@
 
 - **Title**: *Python Data Analysis of Titanic Survival with Pandas*
 - **Difficulty**:
-  - [x] Beginner
-  - [ ] Intermediate
+  - [ ] Beginner
+  - [x] Intermediate
   - [ ] Advanced
 - **Scale**:
   - [x] Small
