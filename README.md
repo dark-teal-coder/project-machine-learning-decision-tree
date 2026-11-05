@@ -9,7 +9,7 @@
 
 ## Project
 
-- **Title**: *Python Data Analysis of Titanic Survival with Pandas*
+- **Title**: *Machine Learning: Decision Tree Classification on Abalone Data*
 - **Difficulty**:
   - [ ] Beginner
   - [x] Intermediate
