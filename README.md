@@ -68,7 +68,4 @@ If `pip` fails to locate the relevant packages, you may find it at [Python Packa
 
 &nbsp;
 
-*1st Completion Date: Feb 08, 2023*&emsp;
-
-
-1st Completion Date: Nov 05, 2026
+*1st Completion Date: Nov 05, 2026*&emsp;
