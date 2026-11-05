@@ -12,8 +12,8 @@
 - **Title**: *Machine Learning: Decision Tree Classification on Abalone Data*
 - **Difficulty**:
   - [ ] Beginner
-  - [x] Intermediate
-  - [ ] Advanced
+  - [ ] Intermediate
+  - [x] Advanced
 - **Scale**:
   - [x] Small
   - [ ] Medium
