@@ -1,9 +1,6 @@
-# Machine Learning: Decision Tree Classification on Abalone Data
-
-
 <!-- README file for projects-->
 
-# Python Data Analysis of Titanic Survival with Pandas
+# Machine Learning: Decision Tree Classification on Abalone Data
 
 ## Metadata
 
