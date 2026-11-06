@@ -23,7 +23,6 @@
 
 This is a machine learning project implementing a Decision Tree Classifier on the classic Abalone dataset to predict and classify abalone characteristics.
 
-## 📊 Dataset Overview
 The dataset contains several physical measurements of abalones:
 * **Sex**: M, F, and I (infant)
 * **Length, Diameter, Height**
