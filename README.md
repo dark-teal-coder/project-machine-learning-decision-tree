@@ -21,7 +21,7 @@
 
 ## Repository Description 
 
-xxx
+This is a machine learning project implementing a Decision Tree Classifier on the classic Abalone dataset to predict and classify abalone characteristics.
 
 ## Installation 
 
