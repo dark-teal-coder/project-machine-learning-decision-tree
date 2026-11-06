@@ -21,7 +21,7 @@
 
 ## Repository Description 
 
-This is a machine learning project implementing a Decision Tree Classifier on the classic Abalone dataset to predict and classify abalone characteristics. The main Jupyter Notebook containing data preprocessing, exploratory data analysis (EDA), model training, tuning, and evaluation.
+This is a machine learning project implementing a Decision Tree Classifier on the classic Abalone dataset to predict and classify abalone characteristics. The goal is to build and evaluate a classification model based on physical measurements of abalones. The main Jupyter Notebook containing data preprocessing, exploratory data analysis (EDA), model training, tuning, and evaluation.
 
 The dataset contains several physical measurements of abalones:
 * **Sex**: M, F, and I (infant)
